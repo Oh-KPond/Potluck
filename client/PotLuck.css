@@ -71,7 +71,6 @@ label, input {
     height:50px;
     left:50px;
     top:20px;
-    right:0;
     position:relative;
 }
 .potluck-app-header > *{
@@ -125,7 +124,6 @@ label, input {
   padding-right:50%;
   font-size: 20px;
   line-height:35px;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-left:100px;
-  right:0;
-}
+  }
